@@ -10,7 +10,7 @@
 
 ## Deployment
 
-The API has been deployed using the Render platform. You can access the deployed API at the following endpoint: `https://changelog-api-j8fx.onrender.com`
+The API has been deployed using the Render platform. You can access the deployed API at the following endpoint: `https://change-log-api-vfgp.onrender.com`
 
 ## Structure
 
@@ -29,7 +29,7 @@ The API has been deployed using the Render platform. You can access the deployed
 
  `npm install` to install required packages
 
- `npm run start` will start the server and the database on the `ports` defined in environment variables
+`npm run start` will start the server and the database on the `ports` defined in environment variables
 
 `npm build` will build the type script src code
 
