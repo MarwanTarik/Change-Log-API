@@ -1,5 +1,3 @@
-
-
 # Change logs API
 
 ## Technologies
@@ -25,6 +23,7 @@ The API has been deployed using the Render platform. You can access the deployed
 * `server.ts` main server configuration
 * `prisma_utilities` ORM configuration
 * `modules` some useful helper methods
+* `config` environment configuration
 
 ## Installation
 
