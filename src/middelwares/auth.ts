@@ -8,7 +8,6 @@ import { AppError } from '../@types/index.js'
 function creatJWT (user: User): string | undefined {
   try {
     const secret = config.JWT_SECRET
-    console.log(secret)
     if (secret !== undefined) {
       const token = jwt.sign({
         id: user.id,
