@@ -1,0 +1,6 @@
+const prodConfig = {
+}
+
+export {
+  prodConfig
+}

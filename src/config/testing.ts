@@ -1,0 +1,6 @@
+const testingConfig = {
+}
+
+export {
+  testingConfig
+}

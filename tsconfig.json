@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+      "module": "NodeNext",
+      "moduleResolution": "NodeNext",
+      "sourceMap": true,
+      "outDir": "dist",
+      "lib": ["esnext"],
+      "esModuleInterop": true,
+      "target": "ES2022",
+      "strictNullChecks":true,
+      "typeRoots": ["src/@types", "./node_modules/@types"]
+    },
+    "include": ["src", "src/middelwares/request-validator.ts", "src/routes.ts"]
+}
