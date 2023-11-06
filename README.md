@@ -27,7 +27,7 @@ The API has been deployed using the Render platform. You can access the deployed
 
 ## Installation
 
- `npm install` to install required packages
+`npm install` to install required packages
 
 `npm run start` will start the server and the database on the `ports` defined in environment variables
 
