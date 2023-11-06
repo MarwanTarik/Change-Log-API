@@ -1,4 +1,4 @@
-# Change logs API
+# Change log API
 
 ## Technologies
 
