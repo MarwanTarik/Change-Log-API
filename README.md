@@ -1,4 +1,4 @@
-# Change log API
+# Change Log API
 
 ## Technologies
 
@@ -6,11 +6,6 @@
 * Prisma ORM
 * Node/Express for the application logic
 * jsonwebtoken from npm for working with JWT
-* Render for deployment
-
-## Deployment
-
-The API has been deployed using the Render platform. You can access the deployed API at the following endpoint: `https://change-log-api-vfgp.onrender.com`
 
 ## Structure
 
@@ -31,7 +26,7 @@ The API has been deployed using the Render platform. You can access the deployed
 
 `npm run start` will start the server and the database on the `ports` defined in environment variables
 
-`npm build` will build the type script src code
+`npm build` will build the src code
 
 `npm run dev` will run your project in development mode
 
